@@ -10,6 +10,13 @@ Using solidity and web3.js to build supply chain system for coffee. For learning
 4.  **parcel (dev)** - for bundle frontend to prepare deploy to server (also for old browser be able to support ES6+ syntax
 5.  **ganache-cli or ganache gui** - for develop smart contract using local blockchain.
 
+### Tools version
+
+1. Truffle v5.3.9 (core: 5.3.9)
+2. Solidity - ^0.8.0 (solc-js)
+3. Node v14.17.0
+4. Web3.js v1.3.6
+
 ### General write-up
 
 #### Prepare environment to develop
