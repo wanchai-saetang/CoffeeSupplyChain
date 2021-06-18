@@ -34,6 +34,10 @@ https://rinkeby.etherscan.io/address/0xd211cfc09ed746b866a22c22770c27daec52e364
 - install ganache-cli to run local blockchain
   > **truffle console**
 - start truffle development environment
+  > (in truffle console) compile
+- compile smart contract
+  > (in truffle console) migrate
+- deploy smart contract to local blockchain
   > **npm start**
 - start parcel build and run live-server
 

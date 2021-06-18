@@ -2,10 +2,10 @@
   "name": "coffee_supply_chain",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html --dist-dir ./dist"
   },
   "keywords": [],
   "author": "wanchai <twansaetang@gmail.com>",
