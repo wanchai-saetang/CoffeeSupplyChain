@@ -25,21 +25,13 @@ https://rinkeby.etherscan.io/address/0xd211cfc09ed746b866a22c22770c27daec52e364
 
 #### Prepare environment to develop
 
-> **npm i**
-
-- install library from package.json
-  > **npm i truffle -g**
-- install truffle in global scope
-  > **npm i ganache-cli**
-- install ganache-cli to run local blockchain
-  > **truffle console**
-- start truffle development environment
-  > (in truffle console) compile
-- compile smart contract
-  > (in truffle console) migrate
-- deploy smart contract to local blockchain
-  > **npm start**
-- start parcel build and run live-server
+> **npm i** -- install library from package.json
+> **npm i truffle -g** -- install truffle in global scope
+> **npm i ganache-cli** -- install ganache-cli to run local blockchain
+> **truffle console** -- start truffle development environment
+> (in truffle console) **compile** -- compile smart contract
+> (in truffle console) **migrate** -- deploy smart contract to local blockchain
+> **npm start** - start npx parcel and run live-server
 
 #### Write smart contract
 
